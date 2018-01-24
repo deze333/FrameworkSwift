@@ -14,6 +14,7 @@
 
 /* Begin PBXFileReference section */
 		E52A8F24201845B90043BB75 /* PluginInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PluginInterface.h; sourceTree = "<group>"; };
+		E52A8F29201852E40043BB75 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		E5CC78DD20182CFB0032D645 /* FrameworkSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FrameworkSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5CC78E020182CFB0032D645 /* FrameworkSwift.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FrameworkSwift.h; sourceTree = "<group>"; };
 		E5CC78E120182CFB0032D645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -34,6 +35,7 @@
 		E5CC78D320182CFB0032D645 = {
 			isa = PBXGroup;
 			children = (
+				E52A8F29201852E40043BB75 /* README.md */,
 				E5CC78DF20182CFB0032D645 /* FrameworkSwift */,
 				E5CC78DE20182CFB0032D645 /* Products */,
 			);
