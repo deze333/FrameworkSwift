@@ -1,3 +1,3 @@
 # FrameworkSwift
 
-A simple Objective-C framework used to demonstate bundle loading and code execution.
+A simple Swift framework used to demonstate bundle loading and code execution.
